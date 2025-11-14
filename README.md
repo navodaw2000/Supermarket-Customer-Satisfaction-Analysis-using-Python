@@ -12,41 +12,7 @@ The goal is to help supermarkets understand customer needs, identify performance
 * Identify **customer satisfaction levels** across different supermarkets.
 * Analyze **demographic patterns** — age, gender, province.
 * Examine **correlations** between service quality, satisfaction, and recommendation likelihood.
-* Visualize insights using **Power BI dashboards** and charts.
 * Provide **data-driven recommendations** for improvement.
-
----
-
-## 📁 **Project Structure**
-
-```
-supermarket-customer-satisfaction-analysis/
-│
-├── data/
-│   ├── responses_raw.csv
-│   ├── responses_cleaned.csv
-│
-├── analysis/
-│   ├── cleaning_script.py / .ipynb
-│   ├── visualization_script.py
-│
-├── visuals/
-│   ├── avg_satisfaction_by_supermarket.png
-│   ├── avg_satisfaction_by_province.png
-│   ├── gender_distribution.png
-│   ├── overall_satisfaction_distribution.png
-│   ├── age_group_distribution.png
-│   ├── ratings_correlation_heatmap.png
-│
-├── dashboard/
-│   ├── PowerBI.pbix
-│
-├── docs/
-│   ├── final_report.pdf / .docx
-│   ├── insights_summary.md
-│
-└── README.md   ← (this file)
-```
 
 ---
 
