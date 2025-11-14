@@ -103,7 +103,6 @@ A fully interactive dashboard is included with:
 ## 📝 **Tools & Technologies**
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-* **Power BI**
 * **Excel / Google Sheets**
 * **Markdown / Word**
 * **GitHub** for version control
@@ -123,33 +122,4 @@ A fully interactive dashboard is included with:
 
 Special thanks to everyone who contributed to the survey and provided valuable inputs. This project was completed as a personal data analysis initiative to enhance analytical, visualization, and reporting skills.
 
----
 
-## 📎 **How to Use This Repository**
-
-1. Clone the repo:
-
-   ```
-   git clone https://github.com/your-username/supermarket-customer-satisfaction-analysis.git
-   ```
-2. Open `analysis/` for scripts
-3. Open `docs/` for the final report
-4. Open `dashboard/` to view the Power BI dashboard
-5. View all charts inside `visuals/`
-
----
-
-## 📬 **Contact**
-
-**W.P.C. Navoda**
-University of Kelaniya
-📧 Email: [chalaninavoda722@gmail.com](mailto:chalaninavoda722@gmail.com)
-🔗 LinkedIn: (Add your profile link)
-
----
-
-If you'd like, I can also create:
-✅ A **LICENSE file**
-✅ A **GitHub project description**
-✅ Repository **tags & topics**
-Just tell me **“Add GitHub tags”** or **“Add a license”**.
