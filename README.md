@@ -58,20 +58,6 @@ These visualizations help reveal important behavioral patterns and satisfaction 
 
 ---
 
-## 🖥️ **Power BI Dashboard**
-
-A fully interactive dashboard is included with:
-
-* Demographic filters
-* Satisfaction by category
-* Province-level comparisons
-* Recommendation insights
-* Complaint analysis
-
-**File:** `PowerBI.pbix`
-
----
-
 ## 📚 **Methodology**
 
 1. **Data Cleaning**
