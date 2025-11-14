@@ -1,0 +1,9 @@
+Metric,Value
+Total Responses,103
+Gender Distribution,"{'Male': 56, 'Female': 47}"
+Age Group Distribution,"{'26-35': 37, '18-25': 30, '36-50': 25, 'Above 50': 11}"
+Average Satisfaction Score,3.81
+Average Recommendation Score,7.31
+Average Ratings by Aspect,"{'rate_the_following_aspects_of_your_preferred_supermarket:___[product_quality]': 3.3980582524271843, 'rate_the_following_aspects_of_your_preferred_supermarket:___[product_availability]': 3.3106796116504853, 'rate_the_following_aspects_of_your_preferred_supermarket:___[price_fairness]': 3.116504854368932, 'rate_the_following_aspects_of_your_preferred_supermarket:___[parking_convenience]': 3.058252427184466, 'rate_the_following_aspects_of_your_preferred_supermarket:___[store_cleanliness]': 3.0097087378640777, 'rate_the_following_aspects_of_your_preferred_supermarket:___[checkout_speed]': 2.9805825242718447, 'rate_the_following_aspects_of_your_preferred_supermarket:___[staff_friendliness]': 2.9029126213592233}"
+Complaints Summary,"{'No': 81, 'Yes': 22}"
+Loyalty Card Holders,"{'No': 55, 'Yes': 48}"
